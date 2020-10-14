@@ -126,6 +126,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-/data
+/data/*images*
+/data/*.csv
+
 /understanding_cloud_organization.zip
-/models
+
